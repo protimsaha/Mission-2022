@@ -1,0 +1,33 @@
+.page-tittle{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;  
+}
+.h1-color{
+    color: orange;
+}
+.first-sec{
+    display: flex;
+    margin-top: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}
+.link{
+    border: limegreen solid;
+    padding: 10px  20px;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(green , skyblue);
+    border-radius: 8px;
+}
