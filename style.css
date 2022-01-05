@@ -28,6 +28,49 @@ body{
     padding: 10px  20px;
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(green , skyblue);
+    background-image: linear-gradient(rgba(126, 13, 201, 0.692) , rgba(20, 183, 248, 0.904));
     border-radius: 8px;
+}
+.second-sec{
+    display: flex;
+}
+#illus{
+    height: 130px;
+    width: 130px;
+}
+.mission{
+    width: 26%;
+    margin-left: 5%;
+    margin-right: 3%;
+    padding-bottom: 30px;
+    padding-bottom: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(255, 246, 117, 0.747);
+    text-align: center;
+}
+.vision{
+    width: 26%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-bottom: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(243, 161, 243, 0.479);
+    text-align: center;
+}
+.goals{
+    width: 26%;
+    margin-left: 3%;
+    margin-right: 5%;
+    padding-bottom: 30px;
+    padding-bottom: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(126, 255, 244, 0.596);
+    text-align: center;
+}
+.My-mission{
+    text-align: center;
+    padding: 30px;
 }
